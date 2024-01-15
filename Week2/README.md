@@ -36,6 +36,6 @@ It needs to supply the correct voltage and current as required by the microcontr
 The speed sensor continuously feeds rotation data to the microcontroller.
 The microcontroller processes this data to calculate speed and distance. It also periodically reads the time from the RTC module.
 Using these inputs, the microcontroller updates the display with the current speed, total distance, average speed, and travel time.
-All components are powered by the power source, ensuring consistent operation.
+All components are powered by the power source, ensuring consistent operation.<br><br><br>
 
 <h2> Detailed Diagram
