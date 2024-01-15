@@ -1,6 +1,6 @@
 <h1> Dashboard for Bicycle Riding
-<h4> A bicycle dashboard project that can record total distance, current speed, average speed, and travel time.<br><br><br>
-![Sketch Image](./TECHIN-514/Week2/IMAGE/Sketch.jpg)
+<h4> A bicycle dashboard project that can record total distance, current speed, average speed, and travel time.
+![Sketch Image](./TECHIN-514/Week2/IMAGE/Sketch.jpg)<br><br><br>
 
 <h2> Sensors Device
 <h4> 1.DS3231 RTC Module : For accurate time tracking, especially for the travel time calculation.<br><br>
