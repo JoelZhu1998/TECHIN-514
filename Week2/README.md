@@ -7,7 +7,7 @@
 2.A3144 Hall Effect Sensor : It will detect the revolutions of the bike wheel to calculate the speed.<br><br><br>
 <h2> Display Device
 <h4> 3.ST7920 LCD : 128*64<br><br><br>
-
+4.Stepper Motor Gauge
 <h2> How the devices communicate with each other?
 <h4> 1. Speed Sensor to Microcontroller <br><br>
 Function: The speed sensor (often a Hall effect sensor) is used to measure the speed of the bicycle. It detects the revolutions of the bicycle wheel.
