@@ -2,6 +2,7 @@
 <h4> A bicycle dashboard project that can record total distance, current speed, average speed, and travel time.
 
 ![](/IMAGE/Sketch 2.jpg)
+
 <h2> Sensors Device
 <h4> 1.DS3231 RTC Module : For accurate time tracking, especially for the travel time calculation.<br><br>
 2.A3144 Hall Effect Sensor : It will detect the revolutions of the bike wheel to calculate the speed.<br><br><br>
