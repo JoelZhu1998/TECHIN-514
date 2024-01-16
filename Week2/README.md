@@ -40,4 +40,5 @@ Using these inputs, the microcontroller updates the display with the current spe
 All components are powered by the power source, ensuring consistent operation.<br><br><br>
 
 <h2> Detailed Diagram
+  
 ![](/Week2/IMAGE/Diagram.jpg)
