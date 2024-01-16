@@ -1,5 +1,5 @@
 <h1> Dashboard for Bicycle Riding
-<h4> A bicycle dashboard project that can record total distance, current speed, average speed, and travel time.<br><br><br>
+<h4> A bicycle dashboard project that can record total distance, current speed, average speed, and travel time.<br><br>
 
 ![](/Week2/IMAGE/Sketch.jpg)
 
