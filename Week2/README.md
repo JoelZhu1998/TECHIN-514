@@ -39,6 +39,6 @@ The microcontroller processes this data to calculate speed and distance. It also
 Using these inputs, the microcontroller updates the display with the current speed, total distance, average speed, and travel time.
 All components are powered by the power source, ensuring consistent operation.<br><br><br>
 
-<h2> Detailed Diagram
+<h2> Detailed Diagram<br><br>
   
 ![](/Week2/IMAGE/Diagram.jpg)
