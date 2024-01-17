@@ -1,14 +1,19 @@
 <h1> Dashboard for Bicycle Riding
 <h4> A bicycle dashboard project that can record total distance, current speed, average speed, and travel time.<br><br>
 
-![](/Week2/IMAGE/Sketch.jpg)
 
 <h2> Sensors Device
 <h4> 1.DS3231 RTC Module : For accurate time tracking, especially for the travel time calculation.<br><br>
 2.A3144 Hall Effect Sensor : It will detect the revolutions of the bike wheel to calculate the speed.<br><br><br>
+
+![](/Week2/IMAGE/Sketch.jpg)
+
+
 <h2> Display Device
 <h4> 3.ST7920 LCD : 128*64<br><br>
 4.Stepper Motor Gauge
+  
+![](/Week2/IMAGE/Sketch_2.jpg)
 <h2> How the devices communicate with each other?
 <h4> 1. Speed Sensor to Microcontroller <br><br>
 Function: The speed sensor (often a Hall effect sensor) is used to measure the speed of the bicycle. It detects the revolutions of the bicycle wheel.
