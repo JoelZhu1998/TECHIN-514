@@ -3,14 +3,14 @@
 
 
 <h2> Sensors Device
-<h4> 1.DS3231 RTC Module : For accurate time tracking, especially for the travel time calculation.<br><br>
+<h4> 1.DS3231 RTC Module : For accurate time tracking, especially for the travel time calculation.<br>
 2.A3144 Hall Effect Sensor : It will detect the revolutions of the bike wheel to calculate the speed.<br><br><br>
 
 ![](/Week2/IMAGE/Sketch.jpg)
 
 
 <h2> Display Device
-<h4> 3.ST7920 LCD : 128*64<br><br>
+<h4> 3.ST7920 LCD : 128*64<br>
 4.Stepper Motor Gauge <br><br><br>
   
 ![](/Week2/IMAGE/Sketch_2.jpg)
